@@ -3073,7 +3073,7 @@
       "versions": [
         {
           "version": "0.1.0",
-          "commit": "5ac9222de4b5d3bc3198a5881df35c7dfa34a940",
+          "commit": "bf831280a3fdbc0646c8cf97cb0953487bbd55b2",
           "url": "https://github.com/aocenas/grafana-image-renderer",
           "download": {
             "darwin-x64": "https://github.com/aocenas/grafana-image-renderer/releases/download/v0.1.0/plugin-darwin-x64-unknown.tar.gz"
