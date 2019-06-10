@@ -3069,12 +3069,12 @@
     {
       "id": "aocenas-render-plugin",
       "type": "renderer",
-      "url": "https://github.com/aocenas/grafana-render-plugin",
+      "url": "https://github.com/aocenas/grafana-image-renderer",
       "versions": [
         {
           "version": "0.1.0",
           "commit": "391c399d0d1e57d0a4b660ba7ef89f37cbeb84fc",
-          "url": "https://github.com/aocenas/grafana-render-plugin",
+          "url": "https://github.com/aocenas/grafana-image-renderer",
           "download": {
             "darwin-x64": "https://github.com/aocenas/grafana-image-renderer/releases/download/v0.1.0/plugin-darwin-x64-unknown.tar.gz"
           }
