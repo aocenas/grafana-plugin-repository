@@ -3076,7 +3076,10 @@
           "commit": "bf831280a3fdbc0646c8cf97cb0953487bbd55b2",
           "url": "https://github.com/aocenas/grafana-image-renderer",
           "download": {
-            "darwin-amd64": "https://github.com/aocenas/grafana-image-renderer/releases/download/v0.1.0/plugin-darwin-x64-unknown.tar.gz"
+            "darwin-amd64": {
+              "url": "https://github.com/aocenas/grafana-image-renderer/releases/download/v0.1.0/plugin-darwin-x64-unknown.zip",
+              "md5": "322a7e75ebe0d6be26190513c0353ef1"
+            }
           }
         }
       ]
