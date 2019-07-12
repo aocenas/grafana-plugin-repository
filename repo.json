@@ -3067,7 +3067,7 @@
       ]
     },
     {
-      "id": "aocenas-image-renderer",
+      "id": "grafana-image-renderer",
       "type": "renderer",
       "url": "https://github.com/aocenas/grafana-image-renderer",
       "versions": [
